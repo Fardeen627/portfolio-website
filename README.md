@@ -75,8 +75,8 @@ Open your browser and navigate to `http://localhost:3000` to view the website.
 
 ## Contact 📧
 
-- **Email:** ronitsarkar1526@gmail.com
-- **Phone:** +91 6297195058
+- **Email:** fardeenakhtar190@gmail.com
+- **Phone:** +91 8276983688
 - **Location:** Kolkata, India
 
 ## Contributing
